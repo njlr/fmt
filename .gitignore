@@ -17,3 +17,8 @@ CMakeCache.txt
 CMakeFiles
 Makefile
 run-msbuild.bat
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS

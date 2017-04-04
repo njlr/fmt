@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'find-package-test',
+  srcs = [
+    'main.cc',
+  ],
+  deps = [
+    '//:fmt',
+  ],
+)

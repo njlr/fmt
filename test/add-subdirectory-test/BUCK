@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'add-subdirectory-test',
+  srcs = [
+    'main.cc',
+  ],
+  deps = [
+    '//:fmt',
+  ],
+)
